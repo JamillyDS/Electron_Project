@@ -5,7 +5,7 @@
 ***
 
 <div>
-<img src="./src/public/img/electronProtipo.png" width=200px>
+<img src="./img/electronProtipo.png" width=200px>
 </div>
 
 ***
